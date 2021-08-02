@@ -1,0 +1,20 @@
+i.icon {
+    font-size: 2em;
+}
+
+.container.main{
+    margin-top: 7.0em;
+}
+
+#delete{
+    display: inline;
+}
+body{
+    
+    background: #CC95C0; 
+    background: -webkit-linear-gradient(to right, #7AA1D2, #DBD4B4, #CC95C0); 
+    background: linear-gradient(to right, #7AA1D2, #DBD4B4, #CC95C0); 
+    /* background: #77A1D3;  
+    background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  
+    background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); */
+}
